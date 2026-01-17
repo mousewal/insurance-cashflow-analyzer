@@ -29,3 +29,10 @@ Optional:
 - assumed_bonus_rate
 
 
+## Output Metrics (V1)
+
+- Cashflow schedule (date, amount)
+- Total premiums paid
+- Maturity value (guaranteed + assumed bonus scenario)
+- Internal Rate of Return (XIRR)
+- Breakeven year
